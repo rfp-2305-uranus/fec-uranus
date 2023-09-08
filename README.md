@@ -64,6 +64,7 @@ This application is built using the following technologies:
 - [React Spinners](https://www.npmjs.com/package/react-spinners): A collection of loading spinners with React.js based on Halogen.
 - [React Icons](https://www.npmjs.com/package/react-icons): A collection of popular React icons.
 
+<iframe src="https://www.veed.io/embed/574d7276-7cc4-4903-b17c-4f8ed48fd216" width="744" height="504" frameborder="0" title="FEC screen recording" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Authors
 
