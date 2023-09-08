@@ -65,6 +65,8 @@ This application is built using the following technologies:
 - [React Icons](https://www.npmjs.com/package/react-icons): A collection of popular React icons.
 
 
+![](https://www.veed.io/embed/574d7276-7cc4-4903-b17c-4f8ed48fd216)
+
 ## Authors
 
 [Loren Johnson](https://github.com/L-ren)
